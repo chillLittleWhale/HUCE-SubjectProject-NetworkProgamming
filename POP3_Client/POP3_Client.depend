@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1694787737 source:c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\cli.cpp
+	<iostream>
+	<sstream>
+	"cli.h"
+
+1647603059 c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\cli.h
+	<string>
+
+1703085047 source:c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\main.cpp
+	<iostream>
+	"Pop3ClientCLI.h"
+	<windows.h>
+	<gdiplus.h>
+
+1700214979 c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\pop3_client_cli.h
+	"cli.h"
+
+1703061132 c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\pop3clientcli.h
+	"cli.h"
+	"tcpsocket.h"
+	"Pop3Client.h"
+
+1703088061 source:c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\pop3clientcli.cpp
+	"Pop3ClientCLI.h"
+	"display.h"
+	<iostream>
+	<cmath>
+
+1703086151 source:c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\display.cpp
+	"display.h"
+	<iomanip>
+
+1700673729 c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\display.h
+	<Windows.h>
+	<iostream>
+
+1700505166 source:c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1700498886 c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\socket.h
+	<string>
+	<exception>
+
+1700750931 source:c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+	<fstream>
+
+1700750441 c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\tcpclient.h
+	"tcpsocket.h"
+
+1700230889 c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\tcpsocket.h
+	"socket.h"
+
+1703056239 source:c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+	"tcpsocket.h"
+
+1703087609 source:c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\pop3client.cpp
+	"Pop3Client.h"
+	"display.h"
+	<iostream>
+	<fstream>
+	<Windows.h>
+	<sstream>
+	<cstring>
+	<algorithm>
+	<fstream>
+	<windows.h>
+
+1703058603 c:\users\admin\onedrive\tài liệu\tai-lieu-hoc-tap\năm 3\lập trình hệ thống mạng\code block\pop3_client\pop3client.h
+	"tcpclient.h"
+	<vector>
+
+1694787737 source:c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\cli.cpp
+	<iostream>
+	<sstream>
+	"cli.h"
+
+1647603059 c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\cli.h
+	<string>
+
+1703086151 source:c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\display.cpp
+	"display.h"
+	<iomanip>
+
+1700673729 c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\display.h
+	<Windows.h>
+	<iostream>
+
+1703085047 source:c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\main.cpp
+	<iostream>
+	"Pop3ClientCLI.h"
+	<windows.h>
+	<gdiplus.h>
+
+1703061132 c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\pop3clientcli.h
+	"cli.h"
+	"tcpsocket.h"
+	"Pop3Client.h"
+
+1700230889 c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\tcpsocket.h
+	"socket.h"
+
+1700498886 c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\socket.h
+	<string>
+	<exception>
+
+1703058603 c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\pop3client.h
+	"tcpclient.h"
+	<vector>
+
+1700750441 c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\tcpclient.h
+	"tcpsocket.h"
+
+1703087609 source:c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\pop3client.cpp
+	"Pop3Client.h"
+	"display.h"
+	<iostream>
+	<fstream>
+	<Windows.h>
+	<sstream>
+	<cstring>
+	<algorithm>
+	<fstream>
+	<windows.h>
+
+1703088061 source:c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\pop3clientcli.cpp
+	"Pop3ClientCLI.h"
+	"display.h"
+	<iostream>
+	<cmath>
+
+1700505166 source:c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1700750931 source:c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+	<fstream>
+
+1703056239 source:c:\users\admin\huce\học kỳ 5\lập trình hệ thống mạng\code block\pop3_client\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+	"tcpsocket.h"
+

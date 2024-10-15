@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="POP3_Client_ver2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/POP3_Client" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/POP3_Client" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add option="-lws2_32" />
+		</Linker>
+		<Unit filename="Pop3Client.cpp" />
+		<Unit filename="Pop3Client.h" />
+		<Unit filename="Pop3ClientCLI.cpp" />
+		<Unit filename="Pop3ClientCLI.h" />
+		<Unit filename="cli.cpp" />
+		<Unit filename="cli.h" />
+		<Unit filename="display.cpp" />
+		<Unit filename="display.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="socket.cpp" />
+		<Unit filename="socket.h" />
+		<Unit filename="tcpclient.cpp" />
+		<Unit filename="tcpclient.h" />
+		<Unit filename="tcpsocket.cpp" />
+		<Unit filename="tcpsocket.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
